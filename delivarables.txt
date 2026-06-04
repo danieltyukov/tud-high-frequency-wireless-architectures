@@ -1,2 +1,8 @@
 Report Time Domain Laboratory (Lab 1)
 Report Communications Laboratory (Lab 2&3)
+
+My info:
+student number: 5714699,
+name: Daniel Tyukov
+email: d.a.tyukov@student.tudelft.nl
+department: TU Delft Microelectronics
