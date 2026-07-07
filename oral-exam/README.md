@@ -9,7 +9,9 @@ the Lab 1 measurements (THz-TDS material characterization of six slabs).
 - `EE4730_Oral_Exam_TimeDomain_Daniel_Tyukov_5714699.pptx` - the deck, built on
   the TU Delft corporate template. Speaker notes are embedded per slide.
 - `EE4730_Oral_Exam_TimeDomain_Daniel_Tyukov_5714699.pdf` - PDF export.
-- `speech_notes.md` - the same speaker notes with per-slide timing, ~9.5 min total.
+- `speech_notes.md` - terse per-slide cue notes (not a verbatim script) with
+  timing, under 4 min of scripted content, leaving most of the 10-minute slot
+  for natural delivery.
 - `build_deck.py` - regenerates the pptx from the template, the lab 1 analysis
   figures and the images in `assets/`.
 - `inject_notes.py` - copies `speech_notes.md` into the pptx notes pane.
